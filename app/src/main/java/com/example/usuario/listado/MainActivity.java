@@ -17,5 +17,6 @@ public class MainActivity extends AppCompatActivity {
         Adapter.dataAdapter = elOrigen.getData();
         Adapter.Imagenes = elOrigen.getImage();
         lista.setAdapter(Adapter);
+
     }
 }
